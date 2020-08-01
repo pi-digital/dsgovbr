@@ -36,7 +36,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "array-ify": "^1.0.0",
-    "dot-prop": "^3.0.0"
+    "dot-prop": "^5.2.0"
   },
   "deprecated": false,
   "description": "Get a compare function for array to sort",
